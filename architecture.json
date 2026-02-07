@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-satirical-prose-gender-dynamics",
+  "title": "The Social Ledger",
+  "tagline": "In the glittering ballrooms of Gilded Age New York, a woman's greatest power is her ability to calculate the price of everything—including herself.",
+  "target_words": 70000,
+  "actual_words": 74597,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Economics of Reputation",
+    "Performance of Gender in High Society",
+    "The Cage of Privilege",
+    "Satire as Social Armament"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Van der Laar Ball",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Female Journalist",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "A Proposal of Convenience",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Gryffon Heiress",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "Julian's Philosophy",
+      "words": 2800
+    },
+    {
+      "ch": 6,
+      "title": "Alva's Ambition",
+      "words": 3300
+    },
+    {
+      "ch": 7,
+      "title": "The Stuyvesant Dinner",
+      "words": 3000
+    },
+    {
+      "ch": 8,
+      "title": "Press and Publicity",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Newport Season",
+      "words": 3400
+    },
+    {
+      "ch": 10,
+      "title": "A Calculated Scandal",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Price of Silence",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Fanny Latham's Salon",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "The Factory Visit",
+      "words": 3500
+    },
+    {
+      "ch": 14,
+      "title": "Ledgers and Liabilities",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Astor Invitation",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "A Brother's Betrayal",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "The Railroad Deal",
+      "words": 3400
+    },
+    {
+      "ch": 18,
+      "title": "Conscience and Capital",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "The World Exposé",
+      "words": 3700
+    },
+    {
+      "ch": 20,
+      "title": "Social Ruin",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "An Unlikely Alliance",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "The Final Ball",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "Reckoning",
+      "words": 3800
+    },
+    {
+      "ch": 24,
+      "title": "A New Balance",
+      "words": 3400
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character uses the language of finance or warfare to describe a purely social interaction, revealing their internal calculus.",
+      "Create a diary entry from the perspective of Mrs. Gryffon, the 'monument to the jeweler's art,' the night after the ball.",
+      "Draft a newspaper column by the journalist Maggie Hightower, satirizing the 'social philosophies' she observed at the Van der Laar event.",
+      "Write a private conversation between two servants in the Van der Laar household, analyzing the machinations of their employers through a gender lens."
+    ],
+    "technical": [
+      "Build an interactive 'Social Ledger' web app where users can track the relationships, debts, and alliances between characters, visualizing the network of power.",
+      "Create a text analysis tool that identifies and highlights satirical language, metaphors of commerce/conflict, and dialogue revealing gender performance within the novel's prose."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Edith Wharton",
+      "Mark Twain",
+      "Jane Austen",
+      "Thorstein Veblen"
+    ]
+  },
+  "cover_prompt": "A young woman in an opulent, restrictive gown of silk and pearls stands before a towering, ornate gilded mirror in a grand ballroom, her reflection not showing her face but a complex, glowing ledger of social debts and credits, her hand poised as if to write a new entry, [Detailed Scene & Context: The scene is a lavishly decorated Gilded Age ballroom at the height of a soirée, with crystal chandeliers, rich velvet drapes, and distant, blurred figures of society elites engaged in whispered conversations, all reflected in the mirror's surface which cracks subtly at the edges like a fragile facade], [Artistic Style & Medium: in the atmospheric and psychologically charged style of John Singer Sargent's portraiture combined with the precise, symbolic detail of Remedios Varo, rendered in oil painting with exquisite texture], [Composition & Camera: book cover framing, a centered and intimate composition where the woman and her ledger-reflection are the clear focus, using a dramatic low-angle shot that emphasizes the towering mirror and the woman's calculated poise within the gilded cage], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single strong light source illuminating the ledger on the glass, casting deep shadows, within a color palette of burnished golds, deep emerald greens, rich burgundy, and cold, calculating silver], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
