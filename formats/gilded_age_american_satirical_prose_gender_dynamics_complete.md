@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER ONE**
 
 The first thing to understand about the Van der Laar ball was that it was not, in fact, a ball. It was a declaration of war. The footmen in their powdered wigs were the infantry, the cascading banks of hothouse orchids were the artillery, and the thirty-piece orchestra, sawing away at something by Strauss, was the martial band. The battlefield was the new Fifth Avenue palace, a confection of French limestone that screamed its cost into the politely deafened ears of old New York. And the generals? They were currently assessing one another across the ballroom floor with smiles that could etch glass.
@@ -101,6 +103,8 @@ She took a deep breath, straightened the fall of her satin skirt, and fixed her 
 
 She turned her back on the night and walked, without hesitation, into the brilliant, crushing light.
 
+# Chapter 2
+
 ## **CHAPTER TWO**
 
 The Van der Laar breakfast table was a study in silent consumption. Sunlight, filtered through lace curtains worth a clerk’s annual salary, fell in precise geometric patterns on the damask cloth. The only sounds were the crisp turn of Augustus Van der Laar’s *Wall Street Journal*, the delicate chime of Alva’s spoon against her Sèvres cup, and the distant, rhythmic *thwock* of a gardener’s shears from the square below.
@@ -188,6 +192,8 @@ She rose, ringing the bell for the footman to clear the salt-strewn wreckage. As
 Her brother’s words echoed in the silent, polished space around her. *You’re afraid of the only thing that truly frightens people like us.*
 
 The reflection did not flinch. It held her gaze, steady and unblinking. Then she turned and walked upstairs to plan a courtship.
+
+# Chapter 3
 
 ## **CHAPTER THREE**
 
